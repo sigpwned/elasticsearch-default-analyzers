@@ -111,8 +111,8 @@
   "catalan": {
     "filter": {
       "catalan_elision": {
-      "type": "elision",
-          "articles": [ "d", "l", "m", "n", "s", "t"]
+        "type": "elision",
+        "articles": [ "d", "l", "m", "n", "s", "t"]
       },
       "catalan_stop": {
         "type": "stop",
